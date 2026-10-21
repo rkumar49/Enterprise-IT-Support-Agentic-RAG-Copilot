@@ -45,6 +45,11 @@ Build a secure IT Support Copilot that:
 7. Lets authorized staff add new company documents.
 
 ---
+## 🎥 Demo Video
+
+[▶️ Watch the demo]
+
+https://github.com/user-attachments/assets/5a098d0b-387c-4443-b392-9552ff834dfc
 
 ## 2. Why This Is an FDE Project
 
